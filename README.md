@@ -1,7 +1,8 @@
-# Wawa Guys Starter
+# Kevlar Kaos
 
-![Video Thumbnail](http://img.youtube.com/vi/_yx2fh8KEak/maxresdefault.jpg?w)
+## Description
+Kevlar Kaos is a Discord Activity designed to enhance your server experience with a custom variant of the game Fallguys 
 
-[Final code](github.com/wass08/wawa-guys-final)
-
-[Watch the video tutorial](https://youtu.be/_yx2fh8KEak)
+## Installation
+1. Clone the repository:
+    
